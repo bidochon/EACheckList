@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Airplanes Check List</string>
+
+    <string-array name="airplane_list">
+        <item>LS3</item>
+        <item>Cessna C150</item>
+        <item>Cessna C172</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_page_ls3">LS3</string>
+    <string name="title_activity_home_page_c150">Cessna C150</string>
+    <string name="title_activity_home_page_c172">Cessna C172</string>
+
+    <!-- LS3 home page -->
+    <string name="check1">check1</string>
+    <string name="check2">check2</string>
+    <string name="check3">check3</string>
+    <string name="check4">check4</string>
+    <string name="check5">check5</string>
+    <string name="resetAll">Reset All</string>
+
+</resources>
